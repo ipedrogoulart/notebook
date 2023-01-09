@@ -246,6 +246,14 @@ h1{
     line-height: 35px;
     
 }
+
+@media screen and (max-width: 664px){
+    .sec3-title h2{
+        line-height: 40px;
+
+    }
+}
+
 .sec3-title p{
     font-size: 20px;
     
