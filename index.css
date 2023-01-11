@@ -6,13 +6,6 @@
     
 }
 
-
-
-h2{
-    line-height: 30px;
-}
-
-
 .contai{
     width: 100%;
     height: 60vh;
@@ -49,8 +42,6 @@ h2{
     font-size: 17px;
     line-height: 20px;
     width: 100%;
-    font-style: oblique;
-    text-shadow: black 1px 1px 2px;
 }
 
 .button-header{
@@ -89,7 +80,7 @@ h2{
     text-align: center;
     line-height: 25px;
     font-size: 20px;
-    color: rgb(66, 65, 65);
+    color: #424141;
     
     
     
@@ -109,7 +100,7 @@ h2{
 .sec-i5{
     display: flex;
     padding: 1% 9% 1% 9%;
-    background-color: #013c42c0;
+    background-color: #162a2c;
     margin: 1% 0 1% 0;
     
 }
@@ -125,8 +116,7 @@ h2{
     text-align: center;
     line-height: 25px;
     font-size: 20px;
-    color: rgb(245, 243, 243);
-    text-shadow: #919090 1px 1px 2px;
+    color: #cfcfcf;
     max-width: 600px;
 }
 @media screen and (max-width: 994px) {
@@ -157,7 +147,7 @@ h2{
     text-align: center;
     line-height: 25px;
     font-size: 20px;
-    color: rgb(66, 65, 65);
+    color: #424141;
 
     
 }
@@ -237,9 +227,10 @@ h2{
 .sec3-title{
     padding-top: 30px;
     text-align: center;
-    background-color: #013c42c0;
+    background-color: #162a2c;
     font-size: 30px;
     line-height: 35px;
+    color: #cfcfcf;
     
 }
 
@@ -252,7 +243,7 @@ h2{
 
 .sec3-title p{
     font-size: 20px;
-    
+    color: #cfcfcf;
 }
 
 .cardi{
@@ -271,10 +262,10 @@ h2{
 }
 
 #btn{
-    background-color: #c0c0c0;
-    border: solid 1px #c0c0c0;
+    background-color: #cfcfcf;
+    border: solid 1px #cfcfcf;
     margin-top: 10px;
-    color: #252525;
+    color: #162a2c;
     font-size: 11px;
     width: 81px;
     height: 17px;
@@ -282,18 +273,20 @@ h2{
 }
 
 #btn:hover{
-    background-color: #999999;
-    border: solid 1px #999999;
+    background-color: #a09f9f;
+    border: solid 1px #a09f9f;
 }
 
 
 .modal-header{
-    background-color: #46777ec0;
+    background-color: #cfcfcf;
+
 }
 .modal-body{
-    background-color: #719296c0;
+    background-color: #1c3638;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
+    color:#cfcfcf;
 }
 
 .modal-body p{
@@ -306,7 +299,7 @@ footer{
     color: #000000;
     padding-left: 50px;
     padding-top: 40px;
-    background-color: #051a1a21;
+    background-color: #051a1a54;
     border-top: solid 2px #00000038;
     line-height: 30px;
 }
