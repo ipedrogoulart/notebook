@@ -279,14 +279,17 @@
 
 
 .modal-header{
-    background-color: #cfcfcf;
-
+    background-color: #cfcfcf; 
 }
+
+.modal-header h1{
+    color: #000000;
+}
+
 .modal-body{
     background-color: #1c3638;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-    color:#cfcfcf;
 }
 
 .modal-body p{
